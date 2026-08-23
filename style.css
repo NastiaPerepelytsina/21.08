@@ -80,7 +80,7 @@ body {
     background-color: #63554a;
 }
 
-@media only screen and (max-width: 768px), (orientation: portrait) {
+@media screen and (max-width: 768px), (orientation: portrait) {
     body {
         min-height: 100vh;
         height: auto;
